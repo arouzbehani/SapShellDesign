@@ -1,0 +1,19 @@
+
+*.so
+*.txt
+.vs/
+
+debug/
+obj/
+packages/
+_ReSharper.SapShellDesign/
+Setup1/
+
+SapShellDesign.5.1.ReSharper.user
+SapShellDesign.sln.DotSettings.user
+UpgradeLog.htm
+UpgradeLog2.htm
+SapShellDesign/Class1.cs
+SapShellDesign/bin/Release/SAP2000 Shell Designer.exe
+SapShellDesign/bin/Release/SAP2000 Shell Designer.exe.config
+SapShellDesign/bin/Release/Microsoft.CSharp.dll
